@@ -1,0 +1,16 @@
+PODS:
+  - LYNetworking (0.1.0)
+
+DEPENDENCIES:
+  - LYNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  LYNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYNetworking: 3fe656f9ba561100ec3348bf7499cdf8fa9c2a40
+
+PODFILE CHECKSUM: dd623326340cca70280274bbddbfa7cd15c9a4eb
+
+COCOAPODS: 1.5.3
