@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of LYNetworking.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/leex/LYNetworking",
+  "homepage": "https://github.com/Leex05/LYNetworking",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,31 @@
     "leex": "leixiao@kaituocn.com"
   },
   "source": {
-    "git": "https://github.com/leex/LYNetworking.git",
+    "git": "https://github.com/Leex05/LYNetworking.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "LYNetworking/Classes/**/*"
+  "source_files": "LYNetworking/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "ReactiveCocoa": [
+      "~> 2.5"
+    ],
+    "MJRefresh": [
+      "~> 2.4.10"
+    ],
+    "Mantle": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "YYCache": [
+
+    ]
+  }
 }
